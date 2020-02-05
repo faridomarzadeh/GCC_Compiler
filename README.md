@@ -1,1 +1,1 @@
-# GCC_Compiler
+# smartgcc
